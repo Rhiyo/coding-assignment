@@ -1,0 +1,63 @@
+{
+    "FirstNames": [
+        "John",
+        "Stephen",
+        "Steven",
+        "Fred",
+        "James",
+        "Jin",
+        "Cory",
+        "Jim",
+        "Kandice",
+        "Sally",
+        "Holly",
+        "Patrick",
+        "Harry",
+        "Rosemary",
+        "Georgia",
+        "Lauren",
+        "Tara",
+        "Muhammad"
+    ],
+    "LastNames": [
+        "Smith",
+        "Brown",
+        "Orange",
+        "Mu",
+        "Harrison",
+        "Stewart",
+        "Ford",
+        "Short",
+        "Strong",
+        "McCormack",
+        "McGuire",
+        "Honda",
+        "Nakao"
+
+    ],
+    "StreetNames": [
+        "Meadow Rd",
+        "Lane Wy",
+        "South Rd",
+        "Green St",
+        "Round Rd",
+        "Betty St",
+        "Myer Rd",
+        "Brigg St",
+        "John St",
+        "Waver Wy",
+        "Sturt Rd"
+    ],
+    "Suburbs": [
+        "Sydney",
+        "Parramatta",
+        "Surry Hills",
+        "North Sydney",
+        "Mascot",
+        "Blacktown",
+        "Castle Hill",
+        "Chatswood",
+        "Norwood",
+        "Brighton"
+    ]
+}
